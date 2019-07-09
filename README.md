@@ -1,6 +1,6 @@
 # Data Studio project template
 
-##### Lede Program @ Columbia University
+#### Lede Program @ Columbia University
 Data studio projects, Summer 2019
 
 ## Getting started
